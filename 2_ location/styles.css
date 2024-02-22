@@ -1,0 +1,18 @@
+html {
+  background-color: black;
+  color: white;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+#fruit {
+  color: #66aa66;
+}
+
+#watermelon {
+  color: #ff6666;
+}
+
+#vegetable {
+  color: #339933;
+}
